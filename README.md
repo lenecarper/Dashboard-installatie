@@ -1,6 +1,6 @@
 # Dashboard-installatie
 
-Waarschijnlijk is het dashboard al voor u geinstalleerd. Dit is een gebruikersvriendelijke installatie, maar kan alsnog uitdagend lijken als u nog nooit hiermee hebt gewerkt.
+Waarschijnlijk is het dashboard al voor u geinstalleerd. Dit is een gebruikersvriendelijke installatie, maar kan alsnog uitdagend zijn als u nog nooit hiermee hebt gewerkt.
 
 
 - BEGINNERS SETUP
